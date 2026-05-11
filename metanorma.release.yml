@@ -1,0 +1,4 @@
+documents:
+  - source: sources/cc-36100.adoc
+  - source: sources/iso-36100.adoc
+    visibility: private
