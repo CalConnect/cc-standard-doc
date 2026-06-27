@@ -56,6 +56,7 @@ include::sections/a1-iso.adoc[]
 
 include::sections/a2-cc.adoc[]
 
+////
 include::sections/b1.adoc[]
-
+////
 
