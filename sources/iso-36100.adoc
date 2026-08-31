@@ -2,7 +2,7 @@
 :docnumber: 36100
 :tc-document-number: 9999
 :edition: 1
-:copyright-year: 2021
+:copyright-year: 2026
 :language: en
 :title-intro-en: Standardization documents
 :title-main-en: Document metamodel

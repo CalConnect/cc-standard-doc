@@ -1,6 +1,6 @@
 = Standardization documents  -- Document metamodel
 :docnumber: 36100
-:copyright-year: 2021
+:copyright-year: 2026
 :language: en
 :doctype: standard
 :edition: 1
