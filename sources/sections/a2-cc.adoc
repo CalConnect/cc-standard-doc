@@ -82,23 +82,23 @@ to _BibliographicItem_ as follows:
 a single components: a mandatory Technical Committee. The Technical
 Committee has a type of either _Technical_ or _Provisional_.
 
-lutaml_diagram::models/metanorma-model-cc/views/CcMetadata.lutaml[]
+lutaml_diagram::models/standoc-models/cc/models/CcMetadata.lml[]
 
 ==== CcBibliographicItem
-[lutaml_uml_attributes_table,models/metanorma-model-cc/views/CcMetadata.lutaml,CcBibliographicItem,skip]
+[lutaml_uml_attributes_table,models/standoc-models/cc/models/CcMetadata.lml,CcBibliographicItem,skip]
 
 ==== CcTechnicalCommittee
-[lutaml_uml_attributes_table,models/metanorma-model-cc/views/CcMetadata.lutaml,CcTechnicalCommittee,skip]
+[lutaml_uml_attributes_table,models/standoc-models/cc/models/CcMetadata.lml,CcTechnicalCommittee,skip]
 
 ==== CcDocumentStatus
-[lutaml_uml_attributes_table,models/metanorma-model-cc/views/CcMetadata.lutaml,CcDocumentStatus,skip]
+[lutaml_uml_attributes_table,models/standoc-models/cc/models/CcMetadata.lml,CcDocumentStatus,skip]
 
 ==== CcStatusType
-[lutaml_uml_attributes_table,models/metanorma-model-cc/views/CcMetadata.lutaml,CcStatusType,skip]
+[lutaml_uml_attributes_table,models/standoc-models/cc/models/CcMetadata.lml,CcStatusType,skip]
 
 ==== CcDocumentType
-[lutaml_uml_attributes_table,models/metanorma-model-cc/views/CcMetadata.lutaml,CcDocumentType,skip]
+[lutaml_uml_attributes_table,models/standoc-models/cc/models/CcMetadata.lml,CcDocumentType,skip]
 
 ==== CcTechnicalCommitteeType
-[lutaml_uml_attributes_table,models/metanorma-model-cc/views/CcMetadata.lutaml,CcTechnicalCommitteeType,skip]
+[lutaml_uml_attributes_table,models/standoc-models/cc/models/CcMetadata.lml,CcTechnicalCommitteeType,skip]
 

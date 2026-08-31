@@ -9,80 +9,80 @@ Specializations and profiles of the _StandardDocument_ model may
 specialize the modelling of inline elements.
 
 
-lutaml_diagram::models/metanorma-model-standoc/views/StandardDoc_Inline.lutaml[]
+lutaml_diagram::models/standoc-models/standoc/models/StandardDoc_Inline.lml[]
 
 === Inherited from <<basicdocument>>
 
 ==== TextElement
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Inline.lutaml,TextElement, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Inline.lml,TextElement, skip]
 
 ==== PageBreakElement
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Inline.lutaml,PageBreakElement, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Inline.lml,PageBreakElement, skip]
 
 ==== ReferenceElement
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Inline.lutaml,ReferenceElement, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Inline.lml,ReferenceElement, skip]
 
 ==== ReferenceToIdElement
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Inline.lutaml,ReferenceToIdElement, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Inline.lml,ReferenceToIdElement, skip]
 
 ==== ReferenceToCitationElement
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Inline.lutaml,ReferenceToCitationElement, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Inline.lml,ReferenceToCitationElement, skip]
 
 
 === Reference Elements
 
 ==== ReferenceToTerm
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Inline.lutaml,ReferenceToTerm, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Inline.lml,ReferenceToTerm, skip]
 
 ==== ReferenceToTermbase
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Inline.lutaml,ReferenceToTermbase, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Inline.lml,ReferenceToTermbase, skip]
 
 ==== StandocReferenceToIdElement
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Inline.lutaml,StandocReferenceToIdElement, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Inline.lml,StandocReferenceToIdElement, skip]
 
 ==== XrefCaseType
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Inline.lutaml,XrefCaseType, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Inline.lml,XrefCaseType, skip]
 
 ==== StandardPageBreakElement
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Inline.lutaml,StandardPageBreakElement, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Inline.lml,StandardPageBreakElement, skip]
 
 ==== OrientationType
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Inline.lutaml,OrientationType, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Inline.lml,OrientationType, skip]
 
 ==== Concept
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Inline.lutaml,Concept, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Inline.lml,Concept, skip]
 
 === Change Tracking Elements
 
 ==== Add
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Inline.lutaml,Add, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Inline.lml,Add, skip]
 
 ==== Del
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Inline.lutaml,Del, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Inline.lml,Del, skip]
 
 === Form Elements
 
 ==== General
-lutaml_diagram::models/metanorma-model-standoc/views/StandardDoc_Form.lutaml[]
+lutaml_diagram::models/standoc-models/standoc/models/StandardDoc_Form.lml[]
 ==== FormInput
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Form.lutaml,FormInput, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Form.lml,FormInput, skip]
 
 ==== Input
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Form.lutaml,Input, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Form.lml,Input, skip]
 
 ==== InputType
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Form.lutaml,InputType, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Form.lml,InputType, skip]
 
 ==== Label
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Form.lutaml,Label, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Form.lml,Label, skip]
 
 ==== Select
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Form.lutaml,Select, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Form.lml,Select, skip]
 
 ==== Option
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Form.lutaml,Option, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Form.lml,Option, skip]
 
 ==== Textarea
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Form.lutaml,Textarea, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Form.lml,Textarea, skip]
 
 

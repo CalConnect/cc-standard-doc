@@ -53,25 +53,25 @@ extensions to the <<relaton>> metadata about a document
 (<<isobib>>).
 
 
-lutaml_diagram::models/metanorma-model-iso/views/IsoStandardDocument.lutaml[]
+lutaml_diagram::models/standoc-models/iso/models/IsoStandardDocument.lml[]
 
 ==== IsoStandardDocument
-[lutaml_uml_attributes_table,models/metanorma-model-iso/views/IsoStandardDocument.lutaml,IsoStandardDocument,skip]
+[lutaml_uml_attributes_table,models/standoc-models/iso/models/IsoStandardDocument.lml,IsoStandardDocument,skip]
 
 ==== IsoAmendmentDocument
-[lutaml_uml_attributes_table,models/metanorma-model-iso/views/IsoStandardDocument.lutaml,IsoAmendmentDocument,skip]
+[lutaml_uml_attributes_table,models/standoc-models/iso/models/IsoStandardDocument.lml,IsoAmendmentDocument,skip]
 
 ==== IsoSections
-[lutaml_uml_attributes_table,models/metanorma-model-iso/views/IsoStandardDocument.lutaml,IsoSections,skip]
+[lutaml_uml_attributes_table,models/standoc-models/iso/models/IsoStandardDocument.lml,IsoSections,skip]
 
 ==== IsoPreface
-[lutaml_uml_attributes_table,models/metanorma-model-iso/views/IsoStandardDocument.lutaml,IsoPreface,skip]
+[lutaml_uml_attributes_table,models/standoc-models/iso/models/IsoStandardDocument.lml,IsoPreface,skip]
 
 ==== IsoAnnexSection
-[lutaml_uml_attributes_table,models/metanorma-model-iso/views/IsoStandardDocument.lutaml,IsoAnnexSection,skip]
+[lutaml_uml_attributes_table,models/standoc-models/iso/models/IsoStandardDocument.lml,IsoAnnexSection,skip]
 
 ==== IsoAmendmentClause
-[lutaml_uml_attributes_table,models/metanorma-model-iso/views/IsoStandardDocument.lutaml,IsoAmendmentClause,skip]
+[lutaml_uml_attributes_table,models/standoc-models/iso/models/IsoStandardDocument.lml,IsoAmendmentClause,skip]
 
 
 [[isoblock]]
@@ -81,19 +81,19 @@ lutaml_diagram::models/metanorma-model-iso/views/IsoStandardDocument.lutaml[]
 The _IsoStandardDocument_ model extends the _StandardDocument_
 modelling of blocks for one block definition.
 
-lutaml_diagram::models/metanorma-model-iso/views/IsoBlocks.lutaml[]
+lutaml_diagram::models/standoc-models/iso/models/IsoBlocks.lml[]
 
 ==== IsoAdmonitionBlock
-[lutaml_uml_attributes_table,models/metanorma-model-iso/views/IsoBlocks.lutaml,IsoAdmonitionBlock,skip]
+[lutaml_uml_attributes_table,models/standoc-models/iso/models/IsoBlocks.lml,IsoAdmonitionBlock,skip]
 
 ==== IsoAdmonitionType
-[lutaml_uml_attributes_table,models/metanorma-model-iso/views/IsoBlocks.lutaml,IsoAdmonitionType,skip]
+[lutaml_uml_attributes_table,models/standoc-models/iso/models/IsoBlocks.lml,IsoAdmonitionType,skip]
 
 ==== IsoTermCollection
-[lutaml_uml_attributes_table,models/metanorma-model-iso/views/IsoBlocks.lutaml,IsoTermCollection,skip]
+[lutaml_uml_attributes_table,models/standoc-models/iso/models/IsoBlocks.lml,IsoTermCollection,skip]
 
 ==== IsoTerm
-[lutaml_uml_attributes_table,models/metanorma-model-iso/views/IsoBlocks.lutaml,IsoTerm,skip]
+[lutaml_uml_attributes_table,models/standoc-models/iso/models/IsoBlocks.lml,IsoTerm,skip]
 
 
 [[isobib]]
@@ -159,39 +159,39 @@ Part documents under the same project number (which makes it a
 multi-document description).
 
 
-lutaml_diagram::models/metanorma-model-iso/views/IsoBibliographicItem.lutaml[]
+lutaml_diagram::models/standoc-models/iso/models/IsoBibliographicItem.lml[]
 
 ==== IsoBibliographicItem
-[lutaml_uml_attributes_table,models/metanorma-model-iso/views/IsoBibliographicItem.lutaml,IsoBibliographicItem,skip]
+[lutaml_uml_attributes_table,models/standoc-models/iso/models/IsoBibliographicItem.lml,IsoBibliographicItem,skip]
 
 ==== IsoDocumentId
-[lutaml_uml_attributes_table,models/metanorma-model-iso/views/IsoBibliographicItem.lutaml,IsoDocumentId,skip]
+[lutaml_uml_attributes_table,models/standoc-models/iso/models/IsoBibliographicItem.lml,IsoDocumentId,skip]
 
 ==== IsoLocalizedTitle
-[lutaml_uml_attributes_table,models/metanorma-model-iso/views/IsoBibliographicItem.lutaml,IsoLocalizedTitle,skip]
+[lutaml_uml_attributes_table,models/standoc-models/iso/models/IsoBibliographicItem.lml,IsoLocalizedTitle,skip]
 
 ==== IsoDocumentStatus
-[lutaml_uml_attributes_table,models/metanorma-model-iso/views/IsoBibliographicItem.lutaml,IsoDocumentStatus,skip]
+[lutaml_uml_attributes_table,models/standoc-models/iso/models/IsoBibliographicItem.lml,IsoDocumentStatus,skip]
 
 ==== IsoProjectGroup
-[lutaml_uml_attributes_table,models/metanorma-model-iso/views/IsoBibliographicItem.lutaml,IsoProjectGroup,skip]
+[lutaml_uml_attributes_table,models/standoc-models/iso/models/IsoBibliographicItem.lml,IsoProjectGroup,skip]
 
 ==== IsoSubGroup
-[lutaml_uml_attributes_table,models/metanorma-model-iso/views/IsoBibliographicItem.lutaml,IsoSubGroup,skip]
+[lutaml_uml_attributes_table,models/standoc-models/iso/models/IsoBibliographicItem.lml,IsoSubGroup,skip]
 
 ==== IsoDocumentType
-[lutaml_uml_attributes_table,models/metanorma-model-iso/views/IsoBibliographicItem.lutaml,IsoDocumentType,skip]
+[lutaml_uml_attributes_table,models/standoc-models/iso/models/IsoBibliographicItem.lml,IsoDocumentType,skip]
 
 ==== IecDocumentCategory
-[lutaml_uml_attributes_table,models/metanorma-model-iso/views/IsoBibliographicItem.lutaml,IecDocumentCategory,skip]
+[lutaml_uml_attributes_table,models/standoc-models/iso/models/IsoBibliographicItem.lml,IecDocumentCategory,skip]
 
 ==== IsoDocumentStageCodes
-[lutaml_uml_attributes_table,models/metanorma-model-iso/views/IsoBibliographicItem.lutaml,IsoDocumentStageCodes,skip]
+[lutaml_uml_attributes_table,models/standoc-models/iso/models/IsoBibliographicItem.lml,IsoDocumentStageCodes,skip]
 
 ==== IsoDocumentSubstageCodes
-[lutaml_uml_attributes_table,models/metanorma-model-iso/views/IsoBibliographicItem.lutaml,IsoDocumentSubstageCodes,skip]
+[lutaml_uml_attributes_table,models/standoc-models/iso/models/IsoBibliographicItem.lml,IsoDocumentSubstageCodes,skip]
 
 ==== IsoBibDataExtensionType
-[lutaml_uml_attributes_table,models/metanorma-model-iso/views/IsoBibliographicItem.lutaml,IsoBibDataExtensionType,skip]
+[lutaml_uml_attributes_table,models/standoc-models/iso/models/IsoBibliographicItem.lml,IsoBibDataExtensionType,skip]
 
 

@@ -1,17 +1,17 @@
 [[standardsdocument]]
 == StandardDocument
 
-lutaml_diagram::models/metanorma-model-standoc/views/StandardDoc_StandardDocument.lutaml[]
+lutaml_diagram::models/standoc-models/standoc/models/StandardDoc_StandardDocument.lml[]
 
 === StandardDocument
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_StandardDocument.lutaml, StandardDocument, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_StandardDocument.lml, StandardDocument, skip]
 
 === StandardDocumentType
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_StandardDocument.lutaml, StandardDocumentType, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_StandardDocument.lml, StandardDocumentType, skip]
 
 === MiscContainer
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_StandardDocument.lutaml, MiscContainer, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_StandardDocument.lml, MiscContainer, skip]
 
 === BoilerplateType
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_StandardDocument.lutaml, BoilerplateType, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_StandardDocument.lml, BoilerplateType, skip]
 

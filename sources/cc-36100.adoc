@@ -4,9 +4,9 @@
 :language: en
 :doctype: standard
 :edition: 1
-:status: working-draft
-:revdate: 2021-03-22
-:published-date: 2021-03-22
+:status: published
+:revdate: 2026-08-31
+:published-date: 2026-08-31
 :script: Latn
 :technical-committee: VCARD
 :fullname: Ronald Tse
@@ -15,7 +15,6 @@
 :fullname_2: Nick Nicholas
 :surname_2: Nicholas
 :givenname_2: Nick
-:draft:
 :docfile: cc-36100.adoc
 :mn-document-class: csd
 :local-cache-only:

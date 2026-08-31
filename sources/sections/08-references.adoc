@@ -10,17 +10,17 @@ indicating its data sources. Bibliography sections may be differentiated
 as being normative or informative.
 
 
-lutaml_diagram::models/metanorma-model-standoc/views/StandardDoc_Sections.lutaml[]
+lutaml_diagram::models/standoc-models/standoc/models/StandardDoc_Sections.lml[]
 
 === StandardReferencesSection
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Sections.lutaml,StandardReferencesSection, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Sections.lml,StandardReferencesSection, skip]
 
 // I am forced to do this, because UML stereotypes are not rendered. 
 
 (`ParagraphBlock` is taken from <<basicdocument>>. `BibliographicItem` is taken from <<relaton>>.)
 
 === StandocReferenceToCitationElement
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Inline.lutaml,StandocReferenceToCitationElement, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Inline.lml,StandocReferenceToCitationElement, skip]
 
 (References to citations are specialisations of `ReferenceToCitationElement` taken from <<basicdocument>>.)
 

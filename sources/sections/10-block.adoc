@@ -13,70 +13,70 @@ specialize the modelling of blocks.
 
 ==== General
 
-lutaml_diagram::models/metanorma-model-standoc/views/StandardDoc_Blocks.lutaml[]
+lutaml_diagram::models/standoc-models/standoc/models/StandardDoc_Blocks.lml[]
 
 ==== StandardBlockNoNotes
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Blocks.lutaml,StandardBlockNoNotes, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Blocks.lml,StandardBlockNoNotes, skip]
 
 ==== MultilingualRenderingType
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Blocks.lutaml,MultilingualRenderingType, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Blocks.lml,MultilingualRenderingType, skip]
 
 ==== StandardBlock
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Blocks.lutaml,StandardBlock, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Blocks.lml,StandardBlock, skip]
 
 ==== StandardNoteBlock
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Blocks.lutaml,StandardNoteBlock, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Blocks.lml,StandardNoteBlock, skip]
 
 ==== StandardTableBlock
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Blocks.lutaml,StandardTableBlock, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Blocks.lml,StandardTableBlock, skip]
 
 ==== TableCol
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Blocks.lutaml,TableCol, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Blocks.lml,TableCol, skip]
 
 ==== StandardFigureBlock
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Blocks.lutaml,StandardFigureBlock, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Blocks.lml,StandardFigureBlock, skip]
 
 ==== StandardSourcecodeBlock
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Blocks.lutaml,StandardSourcecodeBlock, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Blocks.lml,StandardSourcecodeBlock, skip]
 
 ==== StandardFormulaBlock
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Blocks.lutaml,StandardFormulaBlock, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Blocks.lml,StandardFormulaBlock, skip]
 
 ==== StandardExampleBlock
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Blocks.lutaml,StandardExampleBlock, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Blocks.lml,StandardExampleBlock, skip]
 
 ==== StandardParagraphBlock
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Blocks.lutaml,StandardParagraphBlock, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Blocks.lml,StandardParagraphBlock, skip]
 
 ==== StandardQuoteBlock
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Blocks.lutaml,StandardQuoteBlock, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Blocks.lml,StandardQuoteBlock, skip]
 
 ==== StandardAdmonitionBlock
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Blocks.lutaml,StandardAdmonitionBlock, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Blocks.lml,StandardAdmonitionBlock, skip]
 
 === List Block Elements already defined in <<basicdocument>>
 
 ==== General
 
-lutaml_diagram::models/metanorma-model-standoc/views/StandardDoc_List.lutaml[]
+lutaml_diagram::models/standoc-models/standoc/models/StandardDoc_List.lml[]
 
 ==== StandardUnorderedList
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_List.lutaml,StandardUnorderedList, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_List.lml,StandardUnorderedList, skip]
 
 ==== StandardOrderedList
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_List.lutaml,StandardOrderedList, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_List.lml,StandardOrderedList, skip]
 
 ==== UnorderedCheckableListItem
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_List.lutaml,UnorderedCheckableListItem, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_List.lml,UnorderedCheckableListItem, skip]
 
 ==== StandardDefinitionList
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_List.lutaml,StandardDefinitionList, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_List.lml,StandardDefinitionList, skip]
 
 ==== StandardDefinition
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_List.lutaml,StandardDefinition, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_List.lml,StandardDefinition, skip]
 
 ==== StandardDefinitionTerm
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_List.lutaml,StandardDefinitionTerm, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_List.lml,StandardDefinitionTerm, skip]
 
 
 
@@ -84,49 +84,49 @@ lutaml_diagram::models/metanorma-model-standoc/views/StandardDoc_List.lutaml[]
 === Block Elements specific to StandardDocument
 
 ==== General
-lutaml_diagram::models/metanorma-model-standoc/views/StandardDoc_Blocks_New.lutaml[]
+lutaml_diagram::models/standoc-models/standoc/models/StandardDoc_Blocks_New.lml[]
 
 ==== AmendBlock
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Blocks_New.lutaml,AmendBlock, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Blocks_New.lml,AmendBlock, skip]
 
 ==== AutoNumber
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Blocks_New.lutaml,AutoNumber, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Blocks_New.lml,AutoNumber, skip]
 
 ==== ImageMapBlock
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Blocks_New.lutaml,ImageMapBlock, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Blocks_New.lml,ImageMapBlock, skip]
 
 ==== ChangeType
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Blocks_New.lutaml,ChangeType, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Blocks_New.lml,ChangeType, skip]
 
 ==== Form
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Blocks_New.lutaml,Form, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Blocks_New.lml,Form, skip]
 
 ==== ElementName
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Blocks_New.lutaml,ElementName, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Blocks_New.lml,ElementName, skip]
 
 ==== ToC
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Blocks_New.lutaml,ToC, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Blocks_New.lml,ToC, skip]
 
 ==== Passthrough
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Blocks_New.lutaml,Passthrough, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Blocks_New.lml,Passthrough, skip]
 
 === Image Map Elements
 
 ==== SvgMapBlock
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Blocks_New.lutaml,SvgMapBlock, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Blocks_New.lml,SvgMapBlock, skip]
 
 ==== SvgTargetType
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Blocks_New.lutaml,SvgTargetType, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Blocks_New.lml,SvgTargetType, skip]
 
 ==== ImageMapAreaType
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Blocks_New.lutaml,ImageMapAreaType, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Blocks_New.lml,ImageMapAreaType, skip]
 
 ==== ImageMapAreaTypeType
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Blocks_New.lutaml,ImageMapAreaTypeType, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Blocks_New.lml,ImageMapAreaTypeType, skip]
 
 ==== ImageMapCoords
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Blocks_New.lutaml,ImageMapCoords, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Blocks_New.lml,ImageMapCoords, skip]
 
 ==== ImageMapRadius
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Blocks_New.lutaml,ImageMapRadius, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Blocks_New.lml,ImageMapRadius, skip]
 

@@ -7,3 +7,6 @@
 [submodule "sources/models/standoc-models"]
 	path = sources/models/standoc-models
 	url = https://github.com/metanorma/standoc-models
+[submodule "sources/models/concept-model"]
+	path = sources/models/concept-model
+	url = https://github.com/glossarist/concept-model

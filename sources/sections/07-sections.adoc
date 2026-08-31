@@ -125,54 +125,54 @@ While this behavior is less pressing for Content sections (which are
 unnumbered), and Annexes (as exemplified in <<ISOIECDIR2>>), it is
 nonetheless not recommended.
 
-lutaml_diagram::models/metanorma-model-standoc/views/StandardDoc_Sections.lutaml[]
+lutaml_diagram::models/standoc-models/standoc/models/StandardDoc_Sections.lml[]
 
 === Inherited from <<basicdocument>>
 
 ==== BasicSection
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Sections.lutaml,BasicSection, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Sections.lml,BasicSection, skip]
 
 ==== HierarchicalSection
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Sections.lutaml,HierarchicalSection, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Sections.lml,HierarchicalSection, skip]
 
 === StandardDocument Elements, Generic
 
 ==== StandardSection
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Sections.lutaml,StandardSection, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Sections.lml,StandardSection, skip]
 
 ==== StandardHierarchicalSection
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Sections.lutaml,StandardHierarchicalSection, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Sections.lml,StandardHierarchicalSection, skip]
 
 ==== ClauseSection
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Sections.lutaml,ClauseSection, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Sections.lml,ClauseSection, skip]
 
 ==== AnnexSection
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Sections.lutaml,AnnexSection, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Sections.lml,AnnexSection, skip]
 
 ==== ClauseHierarchicalSection
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Sections.lutaml,ClauseHierarchicalSection, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Sections.lml,ClauseHierarchicalSection, skip]
 
 ==== StandardContentSection
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Sections.lutaml,StandardContentSection, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Sections.lml,StandardContentSection, skip]
 
 ==== NormativeType
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Sections.lutaml,NormativeType, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Sections.lml,NormativeType, skip]
 
 ==== FloatingTitle
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Sections.lutaml,FloatingTitle, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Sections.lml,FloatingTitle, skip]
 
 === StandardDocument Elements, Prefatory
 
 ==== Abstract
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Sections.lutaml,Abstract, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Sections.lml,Abstract, skip]
 
 ==== Foreword
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Sections.lutaml,Foreword, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Sections.lml,Foreword, skip]
 
 ==== Introduction
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Sections.lutaml,Introduction, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Sections.lml,Introduction, skip]
 
 ==== Acknowledgements
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Sections.lutaml,Acknowledgements, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Sections.lml,Acknowledgements, skip]
 
 

@@ -48,33 +48,33 @@ Classification for Standards (ICS) code (<<ics>>);
 
 Other extension points may be added specific to the standardization body.
 
-lutaml_diagram::models/metanorma-model-standoc/views/StandardDoc_Metadata.lutaml[]
+lutaml_diagram::models/standoc-models/standoc/models/StandardDoc_Metadata.lml[]
 
 === Inherited from <<basicdocument>>
 
 ==== BibData
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Metadata.lutaml, BibData, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Metadata.lml, BibData, skip]
 
 ==== BibDataExtensionType
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Metadata.lutaml, BibDataExtensionType, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Metadata.lml, BibDataExtensionType, skip]
 
 === StandardDocument Elements
 
 ==== StandardBibData
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Metadata.lutaml, StandardBibData, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Metadata.lml, StandardBibData, skip]
 
 ==== StandardBibDataExtensionType
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Metadata.lutaml, StandardBibDataExtensionType, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Metadata.lml, StandardBibDataExtensionType, skip]
 
 ==== StructuredIdentifierType
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Metadata.lutaml, StructuredIdentifierType, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Metadata.lml, StructuredIdentifierType, skip]
 
 ==== EditorialGroupType
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Metadata.lutaml, EditorialGroupType, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Metadata.lml, EditorialGroupType, skip]
 
 ==== TechnicalCommitteeType
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Metadata.lutaml, TechnicalCommitteeType, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Metadata.lml, TechnicalCommitteeType, skip]
 
 ==== IcsType
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Metadata.lutaml, IcsType, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Metadata.lml, IcsType, skip]
 

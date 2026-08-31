@@ -19,7 +19,7 @@ clause sections (`ClauseSection`):
 
 Both types of section can include prefatory text.
 
-lutaml_diagram::models/metanorma-model-standoc/views/StandardDoc_Terms.lutaml[]
+lutaml_diagram::models/standoc-models/standoc/models/StandardDoc_Terms.lml[]
 
 
 === Definition sections
@@ -30,10 +30,10 @@ lutaml_diagram::models/metanorma-model-standoc/views/StandardDoc_Terms.lutaml[]
 //....
 
 ==== DefinitionSection
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Terms.lutaml,DefinitionSection, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Terms.lml,DefinitionSection, skip]
 
 ==== DefinitionCollection
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Terms.lutaml,DefinitionCollection, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Terms.lml,DefinitionCollection, skip]
 
 (`Definition` is taken from <<basicdocument>>.)
 
@@ -42,59 +42,59 @@ lutaml_diagram::models/metanorma-model-standoc/views/StandardDoc_Terms.lutaml[]
 === Term sections
 
 ==== TermsSection
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Terms.lutaml,TermsSection, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Terms.lml,TermsSection, skip]
 
 ==== TermCollection
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Terms.lutaml,TermCollection, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Terms.lml,TermCollection, skip]
 
 [[term]]
 ==== Term
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Terms.lutaml,Term, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Terms.lml,Term, skip]
 
 ==== Designation
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Terms.lutaml,Designation, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Terms.lml,Designation, skip]
 
 ==== LetterSymbolDesignation
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Terms.lutaml,LetterSymbolDesignation, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Terms.lml,LetterSymbolDesignation, skip]
 
 ==== ExpressionDesignation
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Terms.lutaml,ExpressionDesignation, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Terms.lml,ExpressionDesignation, skip]
 
 ==== ExpressionType
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Terms.lutaml,ExpressionType, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Terms.lml,ExpressionType, skip]
 
 ==== AbbreviationType
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Terms.lutaml,AbbreviationType, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Terms.lml,AbbreviationType, skip]
 
 ==== GrammarInfo
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Terms.lutaml,GrammarInfo, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Terms.lml,GrammarInfo, skip]
 
 ==== GrammarGender
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Terms.lutaml,GrammarGender, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Terms.lml,GrammarGender, skip]
 
 ==== RelatedTerm
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Terms.lutaml,RelatedTerm, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Terms.lml,RelatedTerm, skip]
 
 ==== RelatedTermType
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Terms.lutaml,RelatedTermType, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Terms.lml,RelatedTermType, skip]
 
 ==== TermDefinition
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Terms.lutaml,TermDefinition, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Terms.lml,TermDefinition, skip]
 
 ==== VerbalExpression
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Terms.lutaml,VerbalExpression, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Terms.lml,VerbalExpression, skip]
 
 ==== NonVerbalRepresentation
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Terms.lutaml,NonVerbalRepresentation, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Terms.lml,NonVerbalRepresentation, skip]
 
 ==== TermSource
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Terms.lutaml,TermSource, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Terms.lml,TermSource, skip]
 
 ==== TermSourceStatus
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Terms.lutaml,TermSourceStatus, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Terms.lml,TermSourceStatus, skip]
 
 ==== TermSourceType
-[lutaml_uml_attributes_table,models/metanorma-model-standoc/views/StandardDoc_Terms.lutaml,TermSourceType, skip]
+[lutaml_uml_attributes_table,models/standoc-models/standoc/models/StandardDoc_Terms.lml,TermSourceType, skip]
 
 
 
