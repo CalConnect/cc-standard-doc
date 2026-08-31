@@ -28,3 +28,4 @@ relaton
 relaton/
 sources/lutaml
 sources/relaton
+*.asciidoc.log.txt
