@@ -2,6 +2,7 @@
 metanorma:
   source:
     files:
+      - sources/cc-36100.adoc
       - sources/iso-36100.adoc
 
   collection:
